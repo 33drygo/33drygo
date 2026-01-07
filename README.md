@@ -7,7 +7,7 @@
   🗺️ From **Mexico**  
   🪴 **Minecraft development** enjoyer.  
   📖 Learning **JavaScript** & Web Development  
-  🔧 Working on **Turtle Club**, **Sector X**
+  🦅 NOW I AM A FREE EAGLE WITHOUT ATTACHMENTS
 
   ---
 
@@ -47,11 +47,13 @@
 
 ---
 
-### 🎨 • Portfolio  
+/*
+### 🎨 • Portfolio (outdated, i need to do a new one)  
 A showcase of my work, projects, and resources I’ve created.  
 Learn more about my contributions and background.  
 
-🔗 **[Visit my portfolio](https://portfolio.drygo.dev)**  
+🔗 **[Visit my portfolio](https://portfolio-v2.drygo.dev)**  
+*/
 
 ---
 
