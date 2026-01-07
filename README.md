@@ -47,13 +47,11 @@
 
 ---
 
-/*
 ### 🎨 • Portfolio (outdated, i need to do a new one)  
 A showcase of my work, projects, and resources I’ve created.  
 Learn more about my contributions and background.  
 
 🔗 **[Visit my portfolio](https://portfolio-v2.drygo.dev)**  
-*/
 
 ---
 
