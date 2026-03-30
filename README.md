@@ -1,13 +1,12 @@
 <div align="center">
   
-  <img alt="Avatar de Drygo" height="200" src="https://avatars.githubusercontent.com/u/83435456?v=4" />
+  <img alt="33drygo's avatar" height="200" src="https://avatars.githubusercontent.com/u/83435456?v=4" />
 
-  <h1>Drygo ✨</h1>
+  <h1>⋆｡𖦹°⭒˚｡⋆ 33drygo  </h1>
 
   🗺️ From **Mexico**  
   🪴 **Minecraft development** enjoyer.  
-  📖 Learning **JavaScript** & Web Development  
-  🦅 NOW I AM A FREE EAGLE WITHOUT ATTACHMENTS
+  📖 Learning **JavaScript** & Web Development 
 
   ---
 
@@ -47,11 +46,11 @@
 
 ---
 
-### 🎨 • Portfolio (outdated, i need to do a new one)  
+### 🎨 • Portfolio 
 A showcase of my work, projects, and resources I’ve created.  
 Learn more about my contributions and background.  
 
-🔗 **[Visit my portfolio](https://portfolio-v2.drygo.dev)**  
+🔗 **[Visit my portfolio](https://www.drygo.dev)**  
 
 ---
 
