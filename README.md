@@ -4,7 +4,7 @@
 name = "drygo"
 
 [me]
-age      = ?? 
+age      = "??" 
 locale   = ["es-MX", "en-US"]
 location = "hoenn"
 icon     = "🌀"
