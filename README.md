@@ -19,6 +19,7 @@ minecraft = ["papermc", "fabric"]
 "aevum"         = "manage timers in minecraft"
 "speedrun boom" = "advancement minecraft competition"
 "chaotic eggs"  = "uhc with random loot eggs."
+"copa sulfuro"  = "minecraft soccer gamemode, made with sulfur cubes`."
 ```
 
 お前がこれからどうなろうと、俺はお前をずっと愛している
